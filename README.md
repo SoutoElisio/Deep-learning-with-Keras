@@ -25,7 +25,7 @@ Each part explores a different aspect of model development and evaluation:
 3. Increasing the number of epochs: The number of training epochs is increased from 50 to 100. The MSEs are computed in the same way as in the previous parts and compared to those from the second part.
 4. Increasing the number of hidden layers: The model is modified to include three hidden layers, each with 10 nodes. The MSEs are computed in the same way as in the previous parts and compared to those from the third part.
 
-The purpose of these experiments is to understand how different aspects of model development and evaluation, such as data normalization, the number of training epochs, and the architecture of the neural network, can impact the performance of the model in predicting concrete strength. The results from these experiments provide insights into the best practices for developing and evaluating neural network models for regression problems
+The purpose of these experiments is to understand how different aspects of model development and evaluation, such as data normalization, the number of training epochs, and the architecture of the neural network, can impact the performance of the model in predicting concrete strength. The results from these experiments provide insights into the best practices for developing and evaluating neural network models for regression problems.
 
 ## How to Use
 To explore this project and its code, follow these steps:
